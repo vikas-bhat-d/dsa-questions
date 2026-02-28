@@ -8,4 +8,5 @@ class Solution {
         }
         return (x==check || x==check/10);
     }
+    
 }
